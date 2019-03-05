@@ -6,8 +6,8 @@ Run server
 
 run client
 --------------------
--> gcc -o client ftp_client.c \n
-./client \n
+-> gcc -o client ftp_client.c
+./client 
 
 
 before I messed up with the multi threading, list was fully functional and Store was almost complete. And retrieve was
