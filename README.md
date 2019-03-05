@@ -1,8 +1,8 @@
 # Project-1
 Run server
 --------------------
--> gcc -o server ftp_server.c \n
--> ./server \n
+-> gcc -o server ftp_server.c 
+-> ./server 
 
 run client
 --------------------
