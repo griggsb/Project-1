@@ -7,10 +7,10 @@ Run server
 run client
 --------------------
 -> gcc -o client ftp_client.c
-./client 
+->./client 
 
 
-before I messed up with the multi threading, list was fully functional and Store was almost complete. And retrieve was
+Before I messed up with the multi threading, list was fully functional and Store was almost complete. And retrieve was
 the reverse of store. but looking up help, I must have found a misinformed informate that gave a multithreaded example using fork.
 It wasnt until class I realized everyone used pthread, and that fork is not a form of multithreading. So needless to say, that
 made my troubles harder and I ended up ruining LIST and STORE in the process.
