@@ -1,13 +1,13 @@
 # Project-1
 Run server
 --------------------
--> gcc -o server ftp_server.c
--> ./server
+-> gcc -o server ftp_server.c \n
+-> ./server \n
 
 run client
 --------------------
--> gcc -o client ftp_client.c
-./client
+-> gcc -o client ftp_client.c \n
+./client \n
 
 
 before I messed up with the multi threading, list was fully functional and Store was almost complete. And retrieve was
